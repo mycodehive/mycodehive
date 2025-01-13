@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm SAHOON KIM</h1>
+<h1 align="center">Hi 👋, I'm Code Hive</h1>
 <h3 align="center">A passionate Full Stack Developer from Seoul, KOREA</h3>
 
-- 🔭 I’m currently working on [“Developing One a Day”](https://github.com/sahuni/python)
+- 🔭 I’m currently working on [“Developing One a Day”](https://github.com/mycodehive/python)
 
 - 🌱 I’m currently learning **Generative AI**
 
 - 🤝 I’m looking for help with **Web Development with Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sahuni](https://github.com/sahuni)
+- 👨‍💻 All of my projects are available at [https://github.com/sahuni](https://github.com/mycodehive)
 
 - 💬 Ask me about **Non-major Python Education**
 
-- 📫 How to reach me **sahuni@gmail.com**
+- 📫 How to reach me **mythinkreview@gmail.com**
 
-<h3 align="left">Connect with me: https://github.com/sahuni</h3>
+<h3 align="left">Connect with me: https://github.com/mycodehive</h3>
 <p align="left"> 
 </p>
 
