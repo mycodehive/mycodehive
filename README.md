@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Web Development with Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sahuni](https://github.com/mycodehive)
+- 👨‍💻 All of my projects are available at [https://github.com/mycodehive](https://github.com/mycodehive)
 
 - 💬 Ask me about **Non-major Python Education**
 
