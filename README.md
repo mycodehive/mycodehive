@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Code Hive</h1>
 <h3 align="center">A passionate Full Stack Developer from Seoul, KOREA</h3>
 
+![image](https://github.com/user-attachments/assets/d8fd7d4a-fc25-46d9-8f9f-50fe5b9d2611)
+
+
 - 🔭 I’m currently working on [“Developing One a Day”](https://github.com/mycodehive/python)
 
 - 🌱 I’m currently learning **Generative AI**
