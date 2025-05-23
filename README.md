@@ -3,9 +3,6 @@
 
 ![7f6c4271-9708-4727-ade4-bbcfde924d6f](https://github.com/user-attachments/assets/02586c07-39fd-4bbf-bb29-b03c8c13c694)
 
-https://github.com/user-attachments/assets/d8fd7d4a-fc25-46d9-8f9f-50fe5b9d2611
-
-
 - 🔭 I’m currently working on [“Developing One a Day”](https://github.com/mycodehive/python)
 
 - 🌱 I’m currently learning **Generative AI**
